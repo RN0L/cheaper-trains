@@ -1,0 +1,22 @@
+{
+  "name": "cheaper-trains",
+  "description": "Looks for a cheaper ticket on the same fast train in or through Germany, such as an ÖBB through-ticket you leave early. Reads the sites in your own Chrome, read-only; you book.",
+  "author": {
+    "name": "Leonard Arnold"
+  },
+  "homepage": "https://github.com/RN0L/cheaper-trains",
+  "repository": "https://github.com/RN0L/cheaper-trains",
+  "license": "MIT",
+  "keywords": [
+    "rail",
+    "train",
+    "tickets",
+    "germany",
+    "austria",
+    "deutsche-bahn",
+    "oebb",
+    "sparpreis",
+    "sparschiene",
+    "claude-in-chrome"
+  ]
+}

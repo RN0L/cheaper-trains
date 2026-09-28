@@ -1,0 +1,13 @@
+{
+  "name": "cheaper-trains",
+  "owner": {
+    "name": "Leonard Arnold"
+  },
+  "description": "cheaper-trains: same train, cheaper ticket.",
+  "plugins": [
+    {
+      "name": "cheaper-trains",
+      "source": "./"
+    }
+  ]
+}
